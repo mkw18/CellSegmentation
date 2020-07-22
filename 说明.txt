@@ -1,0 +1,13 @@
+本次作业包括以下文件：
+
+1. 作业说明：prml_bhw_2020_Spring_v4.1.docx
+
+2. 样例程序：./supplementary/dataset1_demo.py
+
+3. 数据集：./supplementary/dataset1以及./supplementary/dataset2
+
+4. 标注软件：./supplementary/label-software
+
+5. 标注软件说明：./supplementary/SemiTrackerTutorial_v0.0.docx
+
+6. 可视化程序：./supplementary/visual_demo.py

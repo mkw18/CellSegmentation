@@ -1,0 +1,75 @@
+https://blog.csdn.net/TeFuirnever/article/details/89553708
+https://blog.csdn.net/ONE_SIX_MIX/article/details/82948669?utm_source=blogxgwz2
+https://blog.csdn.net/zhangpeterx/article/details/89292684
+https://github.com/zhixuhao/unet
+https://stackoverflow.com/questions/42499592/resourceexhaustederror-oom-when-allocating-tensor-with-shape
+https://blog.csdn.net/weixin_42398658/article/details/94558546
+https://www.cnblogs.com/shenxiaolin/p/11219607.html——keras参数不匹配
+https://blog.csdn.net/qq_37591637/article/details/103349269 ——Memory ERROR
+https://www.jianshu.com/p/da10840660cb ——np.expand_dims()
+https://blog.csdn.net/qq_39072607/article/details/89364254 ——np.tile()
+https://www.cnblogs.com/xiaohai2003ly/p/8529472.html ——pdb
+https://www.runoob.com/python/python-exceptions.html ——异常处理
+https://blog.csdn.net/mieleizhi0522/article/details/82191331 ——flow_from_directory
+https://www.cnblogs.com/smuxiaolei/p/8662177.html ——model.compile
+https://www.pythonheidong.com/blog/article/177659/ ——ValueError: A `Concatenate` layer requires inputs with matching shapes except for the concat axis. Got inputs shapes: [(None, 57, 57, 256), (None, 47, 47, 256)]
+https://blog.csdn.net/fu6543210/article/details/86062930 ——ValueError: Negative dimension size caused by subtracting 3 from 1 for 'conv2d_86/Conv2D' (op: 'Conv2D') with input shapes: [?,64,254,1], [3,3,64,64].
+https://www.cnblogs.com/ACPIE-liusiqi/p/10590929.html ——cv2.imread()
+https://blog.51cto.com/huangyg/2375853 ——python添加压缩文件
+https://blog.csdn.net/u014061630/article/details/82818112 ——IOU
+http://www.cocoachina.com/articles/69528 ——“model.fit_generator”中使用的参数
+https://blog.csdn.net/zhenyu_an/article/details/89367335 ——如何利用predict/predict_generator对测试数据进行预测?
+https://blog.csdn.net/zhang_cherry/article/details/88951259 ——cv2.imread()和cv2.cvtColor() 的使用
+https://www.cnblogs.com/loubin/p/11305565.html ——kFold
+https://blog.csdn.net/IAlexanderI/article/details/87903339 ——数组合并
+https://blog.csdn.net/MsSpark/article/details/84455402 ——StratifiedKFold和KFold生成交叉验证数据集的区别
+https://blog.csdn.net/weixin_41514286/article/details/89072751 ——sklearn.model_selection.RepeatedKFold
+https://blog.csdn.net/wangqianqianya/article/details/87886013 ——KMeans
+https://blog.csdn.net/weixin_42561002/article/details/87919081 ——mean_iou()
+https://blog.csdn.net/gaifuxi9518/article/details/81059938 ——Python错误：AttributeError: 'generator' object has no attribute 'next'解决办法
+https://ask.csdn.net/questions/1055231 ——tensorflow 训练数据集时，报错InvalidArgumentError: Incompatible shapes: [15] vs. [15,6]，标签的占位符与标签喂的数据格式不符，要怎么解决？
+https://baike.baidu.com/item/Keras/22792516?fr=aladdin ——Keras百度百科
+https://keras.io/zh/metrics/ ——Keras中文文档
+https://blog.csdn.net/weixin_42561002/article/details/87919081 ——tf.metrics.mean_iou(), tf.where(), tf.ones_like()及通过混淆矩阵计算mean_iou
+https://www.cnblogs.com/weizhen/p/8450572.html ——TensorFlow 类型转换
+https://blog.csdn.net/qq_35200479/article/details/83098319 ——TensorFlow 学习（二） 张量和基本运算
+https://github.com/tensorflow/tensorflow/issues/11840 ——OperatorNotAllowedInGraphError: using a `tf.Tensor` as a Python `bool` is not allowed in Graph execution. Use Eager execution or decorate this function with @tf.function.
+http://www.360doc.com/content/18/0410/09/7551_744364416.shtml ——图像灰度值、RGB值、像素值
+https://blog.csdn.net/banxia1995/article/details/91554867 ——使用tensorflow进行FCN网络训练时出现loss值是负值情况2
+https://blog.csdn.net/qq_42079689/article/details/102535329 ——Opencv-python（cv2）图像读取、显示与保存
+https://blog.csdn.net/aaon22357/article/details/82736792 ——Clipping input data to the valid range for imshow with RGB data ([0..1] for floats or [0..255] for i
+https://blog.csdn.net/u012193416/article/details/79672729 ——np.unique( )的用法
+https://www.runoob.com/python3/python3-iterator-generator.html ——Python3 迭代器与生成器
+https://www.jianshu.com/p/3da7ffb5d950 ——实现批量数据增强 | keras ImageDataGenerator使用
+https://blog.csdn.net/mieleizhi0522/article/details/82191331 ——ImageDataGenerator生成器的flow，flow_from_directory用法
+https://www.zhihu.com/question/344340609/answer/819960086 ——深度学习训练的时候前几个epoch的loss下降，acc都不变是什么原因？
+https://blog.csdn.net/qq_32172681/article/details/101370829 ——训练网络时loss不下降原因
+https://blog.csdn.net/qq_34886403/article/details/82558399 ——神经网络中Batch Size的理解
+https://www.jianshu.com/p/0bb14fb7de62 ——Unet 多分类分割，附开源代码
+https://blog.csdn.net/qq_35747066/article/details/90437002 ——focal-loss的keras实现
+https://www.freesion.com/article/799887071/ ——医学图像分割之 DICE LOSS
+https://stackoverflow.com/questions/60090363/dice-coef-greater-than-1 ——Dice coef greater than 1
+https://www.zhihu.com/question/320706558/answer/659798000 ——unet图像分割效果不理想，有什么改进方法？
+https://blog.csdn.net/lnformat/article/details/104613447 ——UNet/UNet++多类别分割
+https://blog.csdn.net/qq_42450404/article/details/92800575 ——图像分割（二）分割问题常用的损失函数
+https://www.w3cschool.cn/tensorflow_python/tf_keras_backend_backend.html ——TensorFlow函数教程
+https://blog.csdn.net/qq_25439417/article/details/85321584?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.nonecase ——用OPENCV做菌落 数量检测【hough，边缘分割，区域提取】
+https://blog.csdn.net/cfqcfqcfqcfqcfq/article/details/53133357 ——opencv:基于凹点匹配的重叠分割
+https://answers.opencv.org/question/186619/watershed-error-opencv-error-assertion-failed-srctype-cv_8uc3-dsttype-cv_32sc1/ ——Watershed Error OpenCV Error: Assertion failed (src.type() == CV_8UC3 && dst.type() == CV_32SC1)
+https://docs.opencv.org/master/d3/db4/tutorial_py_watershed.html ——Image Segmentation with Watershed Algorithm
+https://www.geeksforgeeks.org/python-opencv-cv2-imread-method/ ——Python OpenCV | cv2.imread() method
+https://blog.csdn.net/wanglitao588/article/details/77033659 ——tensorflow学习：错误 InternalError: Dst tensor is not initialized
+https://blog.csdn.net/LoseInVain/article/details/80488645?utm_source=blogxgwz6 ——TensorFlow和Keras中的Crop函数
+http://www.tensorfly.cn/tfdoc/api_docs/tf/keras/layers/Cropping2D.html ——tf.keras.layers.Cropping2D
+https://www.w3cschool.cn/tensorflow_python/tensorflow_python-p6qw2t3y.html ——TensorFlow函数：tf.layers.Conv2D
+https://www.cnblogs.com/cloud-ken/p/8465494.html ——TypeError: only integer scalar arrays can be converted to a scalar index
+https://blog.csdn.net/zhang_cherry/article/details/88951259 ——cv2.imread()和cv2.cvtColor() 的使用
+https://blog.csdn.net/aliyanah_/article/details/75257694 ——Python之opencv 分水岭分割算法
+https://blog.csdn.net/weixin_44403952/article/details/90521553 ——分水岭算法（Python+OpenCV）
+https://blog.csdn.net/Damon_duanlei/article/details/86098806 ——python 最大递归深度问题
+https://blog.csdn.net/qq_18293213/article/details/72423592 ——U-net使用, 图像分割(边缘检测)
+https://blog.csdn.net/u012931582/article/details/70215756 ——全卷积神经网络图像分割(U-net)-keras实现
+https://blog.csdn.net/weixin_43491924/article/details/87919948 ——阈值分割方法总结
+https://zhuanlan.zhihu.com/p/30732385 ——
+https://blog.csdn.net/zouxy09/article/details/8532106 ——图像分割之（一）概述
+https://blog.csdn.net/qimingxia/article/details/95723482 ——python计算机视觉学习———图像分割
